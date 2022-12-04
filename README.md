@@ -53,7 +53,7 @@ You can use the save as dialog as soon as the GPX file is ready:
 
 ![5](https://user-images.githubusercontent.com/111239271/205501976-f6242884-a075-4c08-a630-1e4d7fa8a70c.jpg)
 
-
+## Using the maps tab
 
 
 
