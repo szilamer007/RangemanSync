@@ -4,6 +4,10 @@ This is a custom built Casio GPR-B1000 sync application that has GPX export and 
 ## About myself
 I'm a .NET backend one-man developer so please don't expect 1 minute fixes, or instant replies from me. I'm only doing this project in my freetime, but I'll try to do my best to answer questions / address potential issues.
 
+## Android OS version requirement
+The app has been tested on Android 12 and 13 versions.
+Unfortunately it turned out the minimum OS version number of the apk package is set to a lower number so the app can be started on Android 7 as well, but the app won't work on Android 7 due to problems with getting the right permissions.
+
 ## Installation
 Just use the latest APK file on the releases page. 
 The complete install process and the steps are in this Youtube video : 
