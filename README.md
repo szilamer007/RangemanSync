@@ -43,6 +43,18 @@ Please wait a little bit and the route records downloaded from the watch will be
 
 ![3](https://user-images.githubusercontent.com/111239271/205501779-2f2fb613-521c-482a-8db3-c4d84b821b0f.jpg)
 
+Select one header record from the list by clicking on it:
+
+![4](https://user-images.githubusercontent.com/111239271/205501872-8be25ca2-07c3-47e8-8818-b5b31f884882.jpg)
+
+Then you can press the "Save as GPX" button to start downloading the GPS coordinates as a GPX format
+
+You can use the save as dialog as soon as the GPX file is ready:
+
+![5](https://user-images.githubusercontent.com/111239271/205501976-f6242884-a075-4c08-a630-1e4d7fa8a70c.jpg)
+
+
+
 
 
 
