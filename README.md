@@ -35,4 +35,9 @@ The app is switched to connection mode, so the following page will be displayed 
 
 ![2](https://user-images.githubusercontent.com/111239271/205501484-06cb3a3c-509f-4b2c-bdb2-475c3a32bb11.jpg)
 
+It's time to connect the watch now, so please press and hold the bottom left button:
+
+![7](https://user-images.githubusercontent.com/111239271/205501648-ebd2b014-b79f-408f-a8f3-ad22fa5a9d74.jpg)
+
+
 
