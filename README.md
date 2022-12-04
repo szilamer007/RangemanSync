@@ -23,12 +23,16 @@ This app was originally created for myself to make my life easier during hiking,
 Only the download headers button can be used on the download tab to test the communication between your watch and the phone.
 
 ## Using the download tab
+Every route on the watch consists of two parts:
+- Route header
+- Multiple GPS coordinates under the selected route header
 
+To start downloading route headers the first step is pressing the Download headers button on the Download tab:
 
-![1](https://user-images.githubusercontent.com/111239271/205458749-75582c6e-5de2-427e-8073-219cdc3de056.jpg)
-![2](https://user-images.githubusercontent.com/111239271/205458750-1235b502-7e10-40f9-9a18-e5beb1055525.jpg)
-![3](https://user-images.githubusercontent.com/111239271/205458751-29feea69-9446-45a7-bd8b-cbfb31aa2e55.jpg)
-![4](https://user-images.githubusercontent.com/111239271/205458752-4af1ff53-7e77-43f8-be01-c8332283a740.jpg)
-![5](https://user-images.githubusercontent.com/111239271/205458754-75161a57-1cce-4a1f-8500-c0d8eec2e73b.jpg)
-![6](https://user-images.githubusercontent.com/111239271/205458755-2a7adf7c-8e18-41a7-80a4-d67cd6df802c.jpg)
+![1](https://user-images.githubusercontent.com/111239271/205501396-a3754867-a9e6-4f3c-b7c2-c621c1db4bac.jpg)
+
+The app is switched to connection mode, so the following page will be displayed for you:
+
+![2](https://user-images.githubusercontent.com/111239271/205501484-06cb3a3c-509f-4b2c-bdb2-475c3a32bb11.jpg)
+
 
