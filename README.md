@@ -1,6 +1,9 @@
 # RangemanSync
 This is a custom built Casio GPR-B1000 sync application that has GPX export and OpenStreetMap based maps. I don't have any documentation about the communication protocol of the watch so I had to figure out everything by myself. This is the reason why you can expect some minor differences between my sync app and G-Shock Connected.
 
+## About myself
+I'm a .NET backend one-man developer so please don't expect 1 minute fixes, or instant replies from me. I'm only doing this project on my freetime, but I'll try to do my best to answer questions / address potential issues.
+
 ## Installation
 Just use the latest APK file on the releases page. 
 The complete install process and the steps are in this Youtube video : 
