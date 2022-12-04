@@ -3,6 +3,14 @@ This is a custom built Casio GPR-B1000 sync application that has GPX export and 
 
 ## Installation
 Just use the latest APK file on the releases page. 
+The complete install process and steps are in this Youtube video : 
+
+[Installation video](https://youtu.be/E3N8D17JhdE)
+
+Please "force stop" or uninstall the G-Shock Connected application before trying to use this sync app. 
+These are created for using the same bluetooth connection to the same watch, so this step is needed to avoid the conflicting usage.
+
+
 
 ![1](https://user-images.githubusercontent.com/111239271/205458749-75582c6e-5de2-427e-8073-219cdc3de056.jpg)
 ![2](https://user-images.githubusercontent.com/111239271/205458750-1235b502-7e10-40f9-9a18-e5beb1055525.jpg)
