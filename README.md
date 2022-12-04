@@ -1,5 +1,5 @@
 # RangemanSync
-This is a custom built Casio GPR-B1000 sync application that has GPX export and OpenStreetMap based maps
+This is a custom built Casio GPR-B1000 sync application that has GPX export and OpenStreetMap based maps. 
 
 ## Installation
 Just use the latest APK file on the releases page. 
@@ -66,6 +66,13 @@ Every node has a label and the watch can handle these type of nodes:
 
 ![map1](https://user-images.githubusercontent.com/111239271/205502643-e7c193ed-3d98-4371-baf9-0cb017d9741e.jpg)
 
+## Support / help
+
+Please use the error reporting feature of config tab if you experience any weird error messages during running the application.
+Just select 'Send log files to support email' and press apply changes.
+A new email message will be automatically created with the support email address, log files in the attachment.
+**Please be aware that log files can contain sensitive information about you, GPS coordinates.**
+So please don't send log files to me if you'd like to keep this information private.
 
 
 
