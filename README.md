@@ -56,6 +56,8 @@ Every route on the watch consists of two parts:
 
 ## Using the maps tab
 
+![map1](https://user-images.githubusercontent.com/111239271/205502643-e7c193ed-3d98-4371-baf9-0cb017d9741e.jpg)
+
 
 
 
