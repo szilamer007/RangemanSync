@@ -10,6 +10,19 @@ The complete install process and steps are in this Youtube video :
 Please "force stop" or uninstall the G-Shock Connected application before trying to use this sync app. 
 These are created for using the same bluetooth connection to the same watch, so this step is needed to avoid the conflicting usage.
 
+The following permissions are needed by the app:
+Location
+Nearby devices discovery (bluetooth)
+
+## Licensing & license fee
+This application is not completely free, but the current license fee is very low , so that's 13 EUR for 2 years.
+I'm only asking this small donation to support my coffee consumption during the development and keep me motivated.
+This app was originally created for myself to make my life easier during hiking, and I think the current version completely satisfies my needs, but I can continue it if I see enough interest.
+
+## Limitations of the unlicensed version
+Only the download headers button can be used on the download tab to test the communication between your watch and the phone.
+
+## Using the download tab
 
 
 ![1](https://user-images.githubusercontent.com/111239271/205458749-75582c6e-5de2-427e-8073-219cdc3de056.jpg)
