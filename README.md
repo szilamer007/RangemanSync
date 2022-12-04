@@ -3,7 +3,7 @@ This is a custom built Casio GPR-B1000 sync application that has GPX export and 
 
 ## Installation
 Just use the latest APK file on the releases page. 
-The complete install process and steps are in this Youtube video : 
+The complete install process and the steps are in this Youtube video : 
 
 [Installation video](https://youtu.be/E3N8D17JhdE)
 
