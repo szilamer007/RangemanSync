@@ -72,7 +72,7 @@ Please use the error reporting feature of config tab if you experience any weird
 Just select 'Send log files to support email' and press apply changes.
 A new email message will be automatically created with the support email address, log files in the attachment.
 **Please be aware that log files can contain sensitive information about you, GPS coordinates.**
-So please don't send log files to me if you'd like to keep this information private.
+So please don't send the log files to me if you'd like to keep this information private.
 
 
 
