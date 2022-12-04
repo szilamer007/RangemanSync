@@ -20,7 +20,7 @@ Nearby devices discovery (bluetooth)
 ## Licensing & license fee
 This application is not completely free, but the current license fee is very low , so that's 13 EUR for 2 years.
 This is completely handled by an external licensing provider called netlicensing.io. 
-I'm only asking this small donation to support my coffee consumption during the development and keep me motivated.
+I'm only asking this small donation to support my coffee consumption during the development and keep me motivated. Payment is secure because Paypal is used by Netlicensing, so I won't know anything about your payment details.
 This app was originally created for myself to make my life easier during hiking, and I think the current version completely satisfies my needs, but I can continue it if I see enough interest.
 **Please don't forget to save / write down your generated device id if you have a license. That device id is used to identify the users in the licensing system. This device ID can be displayed by using Config tab and 'Show my device ID'**
 
