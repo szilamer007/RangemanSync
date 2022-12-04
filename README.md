@@ -74,5 +74,7 @@ A new email message will be automatically created with the support email address
 **Please be aware that log files can contain sensitive information about you, GPS coordinates.**
 So please don't send the log files to me if you'd like to keep this information private.
 
+## Known issues
 
+The sending and receiving is stable based on my tests. Pressing the disconnect button during in the middle of sending coordinates (maps tab) very rarely caused one unusal side effect on my watch : The time, date and the time zone was reset to the factory default 2015, Tokyo settings. The solution is easy if you ever encounter this issue : just set it back to the current time and date by using the adjust button, or use the receiving button (bottom right) to select the GPS based time synchronization: time (gps)
 
