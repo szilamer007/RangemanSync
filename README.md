@@ -39,5 +39,10 @@ It's time to connect the watch now, so please press and hold the bottom left but
 
 ![7](https://user-images.githubusercontent.com/111239271/205501648-ebd2b014-b79f-408f-a8f3-ad22fa5a9d74.jpg)
 
+Please wait a little bit and the route records downloaded from the watch will be shown to you:
+
+![3](https://user-images.githubusercontent.com/111239271/205501779-2f2fb613-521c-482a-8db3-c4d84b821b0f.jpg)
+
+
 
 
