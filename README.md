@@ -56,6 +56,14 @@ Every route on the watch consists of two parts:
 
 ## Using the maps tab
 
+The purpose of this tab is to send GPS coordinates to the watch.
+These coordinates can be created by clicking on the map to place 'nodes'.
+Every node has a label and the watch can handle these type of nodes:
+
+- Start, this is marked as 'S' on the map
+- Goal, this is marked as 'G' on the map
+- Interim route points: these are marked with 1..9 on the map
+
 ![map1](https://user-images.githubusercontent.com/111239271/205502643-e7c193ed-3d98-4371-baf9-0cb017d9741e.jpg)
 
 
