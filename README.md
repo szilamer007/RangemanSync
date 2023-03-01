@@ -9,10 +9,11 @@ The app has been tested on Android 12 and 13 versions.
 Unfortunately it turned out the minimum OS version number of the apk package is set to a lower number so the app can be started on Android 7 as well, but the app won't work on Android 7 due to problems with getting the right permissions.
 
 ## Installation
-Just use the latest APK file on the releases page. 
-The complete install process and the steps are in this Youtube video : 
+Use Google Play store to install it.
 
-[Installation video](https://youtu.be/E3N8D17JhdE)
+(demo) [https://play.google.com/store/apps/details?id=com.Szilamer.RangemanSyncDemo]
+
+(full version) [https://play.google.com/store/apps/details?id=com.Szilamer.RangemanSync]
 
 Please "force stop" or uninstall the G-Shock Connected application before trying to use this sync app. 
 These are created for using the same bluetooth connection to the same watch, so this step is needed to avoid the conflicting usage.
