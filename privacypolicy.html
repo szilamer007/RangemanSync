@@ -47,6 +47,15 @@
                   configuration of the app when utilizing my Service,
                   the time and date of your use of the Service, and other
                   statistics.
+                </p><strong>Location data, Background location data</strong></p> <p>
+					The app uses location permission to access user location and be able to put the user on the map on the maps tab. 
+					This is needed because the application is a sync app for sending GPS coordinates to the Casio GPR-B1000 watch.
+					This location data (GPS coordinates) are not saved to log files or anywhere, these are only used to initially put the user on the map.
+					The background location and background location permission is only used by the foreground service that can be started on the time tab.
+					That service is responsible for sending the exact time to the watch four times a day. (0:30, 6:30, 12:30, 18:30) 
+					The background location permission is only used to be able to use bluetooth hardware in your phone for finding and connecting to the watch.
+					The app doesn't collect and save information about your bluetooth devices and it also doesn't use the background location for tracking your current position, this
+					permission is only strictly used for bluetooth connection for time synchronization purposes.
                 </p> <p><strong>Cookies</strong></p> <p>
                   Cookies are files with a small amount of data that are
                   commonly used as anonymous unique identifiers. These are sent
